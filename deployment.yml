@@ -47,4 +47,4 @@ spec:
     port: 9090
     targetPort: 8080
   selector:
-    app: go-docker-kubernetes         # Map any pod with label `app=go-hello-world` to this service
+    app: go-docker-kubernetes         # Map any pod with label `app=go-docker-kubernetes` to this service
